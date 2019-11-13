@@ -1,4 +1,4 @@
-## #1
+## #1 – [notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
 
 #### Эксперимент показал положительные результаты,<br> рекомендуется к запуску на всю аудиторию
 
@@ -17,4 +17,4 @@
 
 ## #3
 
-Функция, генерирующая график, находися в [ноутбуке](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
+Функция, генерирующая график, находися в [notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
