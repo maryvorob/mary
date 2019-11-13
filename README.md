@@ -11,7 +11,7 @@
 #### Bootstrap
 ![](https://github.com/maryvorob/mary/blob/master/colab.png?raw=true)
 
-## #2 - [SQL](https://github.com/maryvorob/mary/blob/master/conversions.sql)
+## #2 – [SQL](https://github.com/maryvorob/mary/blob/master/conversions.sql)
 
 ## #3
 
