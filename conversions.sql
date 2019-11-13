@@ -53,5 +53,5 @@ SELECT
   -- Покупки того же курса, который решали перед этим
   cmpl_paid / cmpl AS conv_cmpl_paid,
   -- Покупки этого же курса в этот же день
-  cmpl_paid_sd AS cmpl_paid_sd
+  cmpl_paid_sd / cmpl AS cmpl_paid_sd
 FROM agg
