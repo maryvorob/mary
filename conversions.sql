@@ -49,9 +49,9 @@ WITH
   )
 SELECT
   -- Общая конверсия из решения курса в покупку
-  cmpl_paid_any / cmpl AS conv_cmpl_paid_any,
+  1.0 * cmpl_paid_any / cmpl AS conv_cmpl_paid_any,
   -- Покупки того же курса, который решали перед этим
-  cmpl_paid / cmpl AS conv_cmpl_paid,
+  1.0 * cmpl_paid / cmpl AS conv_cmpl_paid,
   -- Покупки этого же курса в этот же день
-  cmpl_paid_sd / cmpl AS cmpl_paid_sd
+  1.0 * cmpl_paid_sd / cmpl AS cmpl_paid_sd
 FROM agg
