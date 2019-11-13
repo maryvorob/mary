@@ -11,9 +11,7 @@
 #### Bootstrap
 ![](https://github.com/maryvorob/mary/blob/master/colab.png?raw=true)
 
-## #2
-
-В процессе ...
+## #2 - [SQL](https://github.com/maryvorob/mary/blob/master/conversions.sql)
 
 ## #3
 
