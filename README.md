@@ -8,10 +8,21 @@
 * Статистически не значимое снижение конверсий из активных пользователей в заказ
 * Статистически не значимое увеличение выручки и ARPU
 
-#### Bootstrap
-![](https://github.com/maryvorob/mary/blob/master/colab.png?raw=true)
-Функция, генерирующая график, находися в [notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
-
 ## #2 – [SQL](https://github.com/maryvorob/mary/blob/master/conversions.sql)
 
-## #3 - [t-test_notebook](https://github.com/maryvorob/mary/blob/master/uchi_product_analyst_t_test.ipynb)
+## #3 Функция, генерирующая график, находися в [notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
+
+#### Bootstrap
+![](https://github.com/maryvorob/mary/blob/master/colab.png?raw=true)
+
+
+## #4 - [t-test_notebook](https://github.com/maryvorob/mary/blob/master/uchi_product_analyst_t_test.ipynb)
+
+#### T-test:
+(относительные метрики = test / control - 1, в скобках приведены 90% интервалы)
+
+* Статистически значимое увеличение количества активных пользователей __+8.5%__ (4% to 13%)
+* Статистически значимое увеличение среднего чека __+29%__ (12% to 45%)
+* Статистически значимое увеличение средней выручки на пользователя __+28%__ (3% to 53%)
+* Не значимое уменьшение конверсии
+* Из-за небольшого количества данных, метрики незначительно отличаются от bootstrap. На больших данных методы должны показывать одинаковые результаты.
