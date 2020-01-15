@@ -1,4 +1,4 @@
-## #1 – [notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
+## #1 – [Bootstrap_notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
 
 #### Эксперимент показал положительные результаты,<br> рекомендуется к запуску на всю аудиторию
 
@@ -10,11 +10,8 @@
 
 #### Bootstrap
 ![](https://github.com/maryvorob/mary/blob/master/colab.png?raw=true)
+Функция, генерирующая график, находися в [notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
 
 ## #2 – [SQL](https://github.com/maryvorob/mary/blob/master/conversions.sql)
 
-## #3
-
-Функция, генерирующая график, находися в [notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
-
-## #4 t-test - [notebook](https://github.com/maryvorob/mary/blob/master/uchi_product_analyst_t_test.ipynb)
+## #3 - [t-test_notebook](https://github.com/maryvorob/mary/blob/master/uchi_product_analyst_t_test.ipynb)
