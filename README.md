@@ -10,7 +10,7 @@
 
 ## #2 – [SQL](https://github.com/maryvorob/mary/blob/master/conversions.sql)
 
-## #3 Функция, генерирующая график, находися в [notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
+## #3 Функция, генерирующая график, находися в [Bootstrap_notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
 
 #### Bootstrap
 ![](https://github.com/maryvorob/mary/blob/master/colab.png?raw=true)
