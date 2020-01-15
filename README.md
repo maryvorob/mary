@@ -16,3 +16,5 @@
 ## #3
 
 Функция, генерирующая график, находися в [notebook](https://github.com/maryvorob/mary/blob/master/colab.ipynb)
+
+## #4 t-test - [notebook](https://github.com/maryvorob/mary/blob/master/uchi_product_analyst_t_test.ipynb)
